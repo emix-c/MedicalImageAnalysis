@@ -1,2 +1,2 @@
 # MedicalImageAnalysis
-Created scripts for standard medical image analysis in MATLAB
+Scripts for standard medical image analysis methods in MATLAB
